@@ -1,12 +1,5 @@
 # Backend-Development-
 
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/AbhishekShrivastav73/Backend-Domination-with-Sheryians-Coding-School.?style=flat-square" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/AbhishekShrivastav73/Backend-Domination-with-Sheryians-Coding-School.?style=flat-square" alt="GitHub forks">
-  <img src="https://img.shields.io/github/issues/AbhishekShrivastav73/Backend-Domination-with-Sheryians-Coding-School.?style=flat-square" alt="GitHub issues">
-</p>
-
 # Javascript WarmUp.
 In this Section, we'll introduce you to the fascinating world of JavaScript, the language that powers much of the web. You'll learn the basics of JavaScript syntax, data types, and how to write your first lines of code. Get ready to dive into the exciting world of web development with JavaScript as your guide!.
 
