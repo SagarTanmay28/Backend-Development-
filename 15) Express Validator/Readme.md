@@ -1,4 +1,4 @@
-# Day 25 - Express Validator
+# Express Validator
 
 This project demonstrates how to validate incoming request data in an Express.js application using `express-validator`.
 
@@ -20,7 +20,7 @@ This project demonstrates how to validate incoming request data in an Express.js
 Open the project folder and install dependencies:
 
 ```bash
-cd "Day 25 - Express Validator"
+cd "Express Validator"
 npm install
 ```
 
