@@ -1,4 +1,4 @@
-# Express Validator
+# Day 25 - Express Validator
 
 This project demonstrates how to validate incoming request data in an Express.js application using `express-validator`.
 
