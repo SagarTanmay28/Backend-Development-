@@ -1,4 +1,4 @@
-# Email Sending
+# Day 24 - Email Sending
 
 ## What is this folder about?
 This folder shows how to send emails from a backend application.
