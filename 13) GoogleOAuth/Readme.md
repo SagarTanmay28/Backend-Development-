@@ -1,4 +1,4 @@
-# Google OAuth
+# Day 23 - Google OAuth
 
 ## What is this folder about?
 This folder demonstrates signing in with Google.
